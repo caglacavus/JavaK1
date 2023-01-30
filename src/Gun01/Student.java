@@ -9,6 +9,8 @@ public class Student {
 
         System.out.println("task 3");
 
+        System.out.println("task 4 ögr");
+
         System.out.println("task5 ogretmen");
 
         System.out.println("task 6 ogretmen");
